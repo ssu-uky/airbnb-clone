@@ -1,0 +1,12 @@
+{
+  "python.formatting.blackPath": "",
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "workbench.editor.labelFormat": "medium",
+  "debug.console.collapseIdenticalLines": true,
+  "debug.console.closeOnEnd": true,
+  "terminal.integrated.tabs.description": "${task}${separator}${local}${separator}${cwdFolder}",
+  "terminal.integrated.tabs.title": "${process}",
+  "terminal.integrated.cwd": ""
+}
