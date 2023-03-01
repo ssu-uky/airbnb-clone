@@ -8,5 +8,20 @@
   "debug.console.closeOnEnd": true,
   "terminal.integrated.tabs.description": "${task}${separator}${local}${separator}${cwdFolder}",
   "terminal.integrated.tabs.title": "${process}",
-  "terminal.integrated.cwd": ""
+  "terminal.integrated.cwd": "",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": 
+  "automaticallyOverrodeDefaultValue",
+  "editor.minimap.enabled": true,
+  "editor.largeFileOptimizations": false,
+  "html.format.indentInnerHtml": true,
+  "html.format.indentHandlebars": true,
+  "emmet.includeLanguages": {"django-html": "html"},
+   "[django-html]": {
+  
+  },
+  "files.associations": {
+      "*.html": "html"
+  }
+
 }
